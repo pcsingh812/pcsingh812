@@ -18,3 +18,7 @@ Complete Python Mastery
 Google Advanced Data Analytics Professional Certificate  
 Google AI Essentials  
 
+📬 Let’s Connect!  
+
+- [LinkedIn](https://www.linkedin.com/in/priyankasingh812/)  
+- Email: psingh137@horizon.csueastbay.edu
