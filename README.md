@@ -18,6 +18,10 @@ Complete Python Mastery
 Google Advanced Data Analytics Professional Certificate  
 Google AI Essentials  
 
+🌱 Fun Facts  
+- My hummingbird feeder has more footfall than a Starbucks ☕🐦
+- My plants don’t just live—they thrive on a custom-built watering schedule in Excel 🌿  
+
 📬 Let’s Connect!  
 
 - [LinkedIn](https://www.linkedin.com/in/priyankasingh812/)  
