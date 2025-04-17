@@ -13,7 +13,7 @@ Btech in Information Technology, APJ Abdul Kalaam Technical University, India (A
 •	Process Automation: Power Automate, ServiceNow Reporting, Excel VBA  
 •	Cloud & IT Tools: Microsoft Azure, Intune, SCCM, ServiceNow  
 
-📚 Certifications:
+📚 Certifications:  
 Complete Python Mastery  
 Google Advanced Data Analytics Professional Certificate  
 Google AI Essentials  
