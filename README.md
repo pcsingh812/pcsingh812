@@ -6,7 +6,7 @@ After years of handling escalations, creating reports, and optimizing service op
 MS in Business Analytics, California State University, East Bay (Aug 2023 - May 2025)  
 Btech in Information Technology, APJ Abdul Kalaam Technical University, India (Aug 2012 - July 2016)  
 
-🛠️ Tools & Tech:
+🛠️ Tools & Tech:  
 •	BI & Data Analytics: SQL, Tableau, Excel (Advanced Macros), Python (Pandas, NumPy), R  
 •	Data Modeling & ETL: Database Management, Data Warehousing, Data Cleaning, Dimensional Modeling  
 •	Machine Learning & Statistics: Predictive Analytics, Classification Models, Regression, A/B Testing  
