@@ -13,9 +13,9 @@ After years of handling escalations, creating reports, and optimizing service op
 -	Cloud & IT Tools: Microsoft Azure, Intune, SCCM, ServiceNow  
 
 📚 Certifications:  
-- Complete Python Mastery  
+- [Complete Python Mastery](https://drive.google.com/file/d/142g5M68rt7BxyZ-UXVAbY6lEaDSj7iDu/view)  
 - [Google Advanced Data Analytics Professional Certificate]
-- [Google AI Essentials] (https://coursera.org/share/f7ae747d184a48a4e7ceda001fe6498d)
+- [Google AI Essentials](https://coursera.org/share/f7ae747d184a48a4e7ceda001fe6498d)
 
 🌱 Fun Facts  
 - My hummingbird feeder has more footfall than a Starbucks ☕🐦
