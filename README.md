@@ -16,6 +16,11 @@ After years of handling escalations, creating reports, and optimizing service op
 - Complete Python Mastery  
 - [Google Advanced Data Analytics Professional Certificate] (https://coursera.org/share/f7ae747d184a48a4e7ceda001fe6498d) 
 - Google AI Essentials  
+## 🏅 Certifications
+
+- [📜 Machine Learning Specialization – Coursera](https://www.coursera.org/account/accomplishments/certificate/XYZ123)
+- [📜 AWS Certified Cloud Practitioner](https://www.credly.com/badges/XYZ456)
+
 
 🌱 Fun Facts  
 - My hummingbird feeder has more footfall than a Starbucks ☕🐦
