@@ -14,7 +14,7 @@ After years of handling escalations, creating reports, and optimizing service op
 
 📚 Certifications:  
 - [Complete Python Mastery](https://drive.google.com/file/d/142g5M68rt7BxyZ-UXVAbY6lEaDSj7iDu/view)  
-- [Google Advanced Data Analytics Professional Certificate]
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/A1Q3IHWAGK19)
 - [Google AI Essentials](https://coursera.org/share/f7ae747d184a48a4e7ceda001fe6498d)
 
 🌱 Fun Facts  
