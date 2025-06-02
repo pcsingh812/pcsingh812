@@ -24,4 +24,4 @@ After years of handling escalations, creating reports, and optimizing service op
 📬 Let’s Connect!  
 
 - [LinkedIn](https://www.linkedin.com/in/priyankasingh812/)  
-- Email: psingh137@horizon.csueastbay.edu
+- Email: pcsingh812@gmail.com
